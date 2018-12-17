@@ -27,7 +27,7 @@ The energy consumer segments have positive correlations although low while tempe
 
 #### Rolling correlations
 
-Rolling correlations for of different weather attributes and energy consumption for the industrial customer (ic) indicating that the correlations are not stable through out the sample period
+Rolling correlations for of different weather attributes and energy consumption for the industrial customer (ic) indicating that the correlations are not stable through out the sample period.
 
 ![Dynamcis of correlations](./../assets/images/timeseries_correlation.png)
 
