@@ -1,0 +1,20 @@
+# ignore byte code
+*.pyc
+
+# VS Code stuff
+.vscode/
+
+# Emacs backup files
+*.*~
+
+# Excel backup file
+~$*.*
+~$*.*
+
+# jekyll generated folders
+docs/_site
+docs/.sass-cache
+
+# ignore dev versions for now
+plots_.py
+arima_scipt.py
